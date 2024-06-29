@@ -1,11 +1,12 @@
 package response_test
 
 import (
-	"ZrifAppsCore/response"
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
 	"testing"
+
+	"github.com/muhAzri/ZrifAppsCore/response"
 )
 
 func TestBuildSuccessResponse(t *testing.T) {

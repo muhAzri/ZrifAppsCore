@@ -1,4 +1,4 @@
-module ZrifAppsCore
+module github.com/muhAzri/ZrifAppsCore
 
 go 1.22.2
 
